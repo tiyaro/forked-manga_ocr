@@ -1,5 +1,9 @@
 # Manga OCR
 
+<p>
+<a href="https://console.tiyaro.ai/explore/kha-white-manga-ocr-base-6384398"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 Optical character recognition for Japanese text, with the main focus being Japanese manga.
 It uses a custom end-to-end model built with Transformers' [Vision Encoder Decoder](https://huggingface.co/docs/transformers/model_doc/vision-encoder-decoder) framework. 
 
